@@ -20,6 +20,7 @@ Pour compiler le fichier pacman1.c, utilisez la commande suivante :
 ```
 
 (Avant de procéder, veuillez installer ncurses.h sur Linux ou via WSL sur Windows)
+
 Pour compiler le fichier jeupacman.c, utilisez la commande suivante :
 
 ```bash
