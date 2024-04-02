@@ -75,6 +75,6 @@ Le code source jeupacman.c contient la suite du projet mais en bonus (réalisé 
 
 9. Programmer les règles du Pac-Man
 
-Personnellement, j'ai implémenter un système de récolte de fruit qui apparaissent sur la carte et le changement de couleur des fantôme lorsque pacman mange une pilule de puissance. 
+Personnellement, j'ai implémenté un système de récolte de fruits qui apparaissent sur la carte, ainsi que le changement de couleur des fantômes lorsque Pac-Man mange une pilule de puissance.
 
-Je n'ai pas eu le temps d'implémenter pacman pour qu'il soit capable de manger les fantômes ainsi que les déplacements des fantômes à l'aide d'algorithme complexe (Comme A* ou Dijkstra).
+Je n'ai pas eu le temps d'implémenter Pac-Man pour qu'il soit capable de manger les fantômes, ni les déplacements des fantômes à l'aide d'algorithmes complexes comme A* ou Dijkstra.
