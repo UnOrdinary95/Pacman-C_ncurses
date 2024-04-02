@@ -13,13 +13,14 @@ Le projet est écrit en langage C, compilable et exécutable dans un environneme
 
 ## Compilation
 
-Pour compiler pacman1.c :
+Pour compiler le fichier pacman1.c, utilisez la commande suivante :
 
 ```bash
     gcc pacman1.c -o pacman1 && ./pacman1
 ```
 
-Pour compiler jeupacman.c (Avant de procéder, veuillez installer ncurses.h sur Linux ou via WSL sur Windows):
+(Avant de procéder, veuillez installer ncurses.h sur Linux ou via WSL sur Windows)
+Pour compiler le fichier jeupacman.c, utilisez la commande suivante :
 
 ```bash
     gcc jeupacman.c -o jeupacman -lncurses && ./jeupacman
