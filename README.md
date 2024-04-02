@@ -19,7 +19,7 @@ Pour compiler pacman1.c :
     gcc pacman1.c -o pacman1 && ./pacman1
 ```
 
-Pour compiler jeupacman.c (Il faut d'abord installer ncurses.h sur Linux ou WSL (Windows):
+Pour compiler jeupacman.c (Il faut d'abord installer ncurses.h sur Linux ou WSL sur Windows):
 
 ```bash
     gcc jeupacman.c -o jeupacman -lncurses && ./jeupacman
