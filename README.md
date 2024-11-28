@@ -2,7 +2,7 @@
 # Pacman-C_ncurses
 
 ## Welcome
-Welcome to Pacman-C_ncurses, a school project developed in December 2024.
+Welcome to Pacman-C_ncurses, a school project developed in December 2023.
 
 ## Description
 This project is implemented in C and utilizes the ncurses library to create a Text-based User Interface (TUI). It is designed to be compiled and run on Linux systems.
